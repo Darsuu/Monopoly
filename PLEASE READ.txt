@@ -1,0 +1,13 @@
+Name: Darshan AbhayKumar
+ID: 2020A7PS1214P
+Project - Monopoly
+
+Additional Software used - Swing, WindowBuilder
+Test cases run: Input can be 2, 3, 4 players
+
+How to use code:
+1> Run the program
+2> In the menu you can choose either Help or Play. To play the game click on Play.
+3> A new popup with the board and a start button will be displayed. 
+4> Click on start. It will ask for input in console. Input any number from 2 to 4
+5> Code will run until you exit the program or if a Player runs out of money.
