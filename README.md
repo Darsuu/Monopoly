@@ -32,6 +32,7 @@ To solve this, we can use Observer pattern:
 	c> The Subject interface will notify all the players of the change and the corresponding player will update their money
 
 
+![Uml](https://github.com/Darsuu/Monopoly/assets/81075125/62d24098-a204-47c6-9cf7-935c3100ec15)
 
 
 
